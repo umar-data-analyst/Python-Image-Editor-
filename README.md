@@ -17,6 +17,10 @@ Built with Pillow. Handles single images and batch folder processing with clean 
 
 ---
 
+## Preview
+
+![Before and After](Austin%20before%20and%20after.jpg)
+
 ## Available Filters
 
 | Filter       | Effect                              |
